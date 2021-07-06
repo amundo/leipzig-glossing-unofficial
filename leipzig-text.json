@@ -10,7 +10,7 @@
       "translation": "'They are in Jakarta now.'",
       "words": [
         {
-          "form": "Mereka",
+          "form": "mereka",
           "gloss": "They"
         },
         {
@@ -40,7 +40,7 @@
       "translation": "‘Now their farm will not stay behind forever.’",
       "words": [
         {
-          "form": "Gila",
+          "form": "gila",
           "gloss": "now"
         },
         {
@@ -118,7 +118,7 @@
       "translation": "Marko and I went to Perdelkino by bus.",
       "words": [
         {
-          "form": "My",
+          "form": "my",
           "gloss": "1PL"
         },
         {
@@ -518,20 +518,22 @@
       }
     },
     {
-      "transcription": "puer puer-Ø",
-      "translation": "‘boy’ ‘boy’",
+      "transcription": "puer",
+      "translation": "boy",
       "words": [
         {
           "form": "puer",
           "gloss": "boy[NOM.SG]"
-        },
-        {
-          "form": "or:",
-          "gloss": "boy-NOM.SG"
-        },
+        }
+      ]
+    },
+    {
+      "transcription": "puer-Ø",
+      "translation": "boy",
+      "words": [
         {
           "form": "puer-Ø",
-          "gloss": ""
+          "gloss": "boy-NOM.SG"
         }
       ],
       "metadata": {
@@ -635,11 +637,11 @@
       }
     },
     {
-      "transcription": "b<um>ili (stem: bili)",
+      "transcription": "b<um>ili",
       "translation": "'buy'",
       "words": [
         {
-          "form": "b<um>ili (stem: bili)",
+          "form": "b<um>ili",
           "gloss": "<ACTFOC>buy"
         }
       ],
@@ -653,11 +655,11 @@
       }
     },
     {
-      "transcription": "reli<n>qu-ere (stem: reliqu-)",
+      "transcription": "reli<n>qu-ere",
       "translation": "'to leave'",
       "words": [
         {
-          "form": "reli<n>qu-ere (stem: reliqu-)",
+          "form": "reli<n>qu-ere",
           "gloss": "leave<PRS>-INF"
         }
       ],
