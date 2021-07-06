@@ -22,11 +22,10 @@
           "gloss": "Jakarta"
         },
         {
-          "form": "sekarang.",
+          "form": "sekarang",
           "gloss": "now"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "1",
         "language": "Indonesian",
@@ -61,11 +60,10 @@
           "gloss": "behind"
         },
         {
-          "form": "amuq’-da-č.",
+          "form": "amuq’-da-č",
           "gloss": "stay-FUT-NEG"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "2",
         "language": "Lezgian",
@@ -88,7 +86,6 @@
           "gloss": "shopkeeper=and"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "3",
         "language": "West Greenlandic",
@@ -107,7 +104,6 @@
           "gloss": "3SG-laugh-FUT"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "4",
         "language": "Hakha Lai",
@@ -146,11 +142,10 @@
           "gloss": "All"
         },
         {
-          "form": "Peredelkino.",
-          "gloss": "Peredelkino."
+          "form": "Peredelkino",
+          "gloss": "Peredelkino"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "5",
         "language": "Russian",
@@ -169,7 +164,6 @@
           "gloss": "come.out-INF"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "6",
         "language": "Turkish",
@@ -188,7 +182,6 @@
           "gloss": "come_out-INF"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "7",
         "language": "Turkish",
@@ -207,7 +200,6 @@
           "gloss": "island-GEN.PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "8",
         "language": "Latin",
@@ -230,7 +222,6 @@
           "gloss": "horse.PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "9",
         "language": "French",
@@ -253,7 +244,6 @@
           "gloss": "father.PL-DAT.PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "10",
         "language": "German",
@@ -280,11 +270,10 @@
           "gloss": "time.DAT.SG"
         },
         {
-          "form": "essandu.",
+          "form": "essandu",
           "gloss": "eat.they.shall"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "11",
         "language": "Hittite",
@@ -303,11 +292,10 @@
           "gloss": "who"
         },
         {
-          "form": "guny-bi-yarluga?",
+          "form": "guny-bi-yarluga",
           "gloss": "2DU.A.3SG.P-FUT-poke"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "12",
         "language": "Jaminjung",
@@ -326,7 +314,6 @@
           "gloss": "come_out-INF"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "13",
         "language": "Turkish",
@@ -345,7 +332,6 @@
           "gloss": "island-GEN;PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "14",
         "language": "Latin",
@@ -368,7 +354,6 @@
           "gloss": "horse;PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "15",
         "language": "French",
@@ -395,11 +380,10 @@
           "gloss": "time:DAT;SG"
         },
         {
-          "form": "essandu.",
+          "form": "essandu",
           "gloss": "eat:they:shall"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "16",
         "language": "Hittite",
@@ -422,7 +406,6 @@
           "gloss": "father.PL-DAT.PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "17",
         "language": "German",
@@ -441,7 +424,6 @@
           "gloss": "PST\\break-2SG"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "18",
         "language": "Irish",
@@ -460,7 +442,6 @@
           "gloss": "SBJV\\1PL-work"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "19",
         "language": "Kinyarwanda",
@@ -479,11 +460,10 @@
           "gloss": "who"
         },
         {
-          "form": "guny-bi-yarluga?",
+          "form": "guny-bi-yarluga",
           "gloss": "2DU>3SG-FUT-poke"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "20",
         "language": "Jaminjung",
@@ -502,7 +482,6 @@
           "gloss": "go-PRS.1PL (not: go-PRS.1.PL)"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "21",
         "language": "Italian",
@@ -529,7 +508,6 @@
           "gloss": "3NSG-be.NPST"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "22",
         "language": "Belhare",
@@ -556,7 +534,6 @@
           "gloss": ""
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "23",
         "language": "Latin",
@@ -583,7 +560,6 @@
           "gloss": "G4-bend-PRET"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "24",
         "language": "Hunzib",
@@ -605,7 +581,6 @@
           "gloss": "hear-3PL.UND-1SG.ACT-hear"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "25",
         "language": "Lakhota",
@@ -624,7 +599,6 @@
           "gloss": "hear-3PL.UND-1SG.ACT- STEM"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "26",
         "language": "Lakhota",
@@ -651,7 +625,6 @@
           "gloss": ""
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "27",
         "language": "German",
@@ -670,7 +643,6 @@
           "gloss": "<ACTFOC>buy"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "28",
         "language": "Tagalog",
@@ -689,7 +661,6 @@
           "gloss": "leave<PRS>-INF"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "29",
         "language": "Latin",
@@ -708,7 +679,6 @@
           "gloss": "green~ATT-M.PL"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "30",
         "language": "Hebrew",
@@ -727,7 +697,6 @@
           "gloss": "IPFV~buy"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "31",
         "language": "Tagalog",
@@ -746,7 +715,6 @@
           "gloss": "<ACTFOC>IPFV~buy"
         }
       ],
-      "tags": [],
       "metadata": {
         "id": "32",
         "language": "Tagalog",
